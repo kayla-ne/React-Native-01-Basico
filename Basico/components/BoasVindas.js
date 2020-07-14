@@ -66,7 +66,7 @@ function BoasVindas(props) {
         title = "Limpar"
     />
     </View>
-  )
+)
 }
 const styles = StyleSheet.create({
   container: {
